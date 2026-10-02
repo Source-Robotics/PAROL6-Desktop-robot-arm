@@ -118,7 +118,7 @@ Most items have links where you can buy the item, and some of them are affiliate
 | Pneumatic gripper connector | | 2 | PC4 - M5 | [Link](https://s.click.aliexpress.com/e/_DkCJqUL) | | [Link](BOM%20reference%20images/PC4-M5.png) |
 | Pneumatic tube | | 5 meters | 1 meter, 4x2.5mm | [Link](https://s.click.aliexpress.com/e/_DEhvFyJ) | | [Link](BOM%20reference%20images/Pneumatic_tube.png) |
 | xt30 connector female | | 1 | Used to deliver power to PAROL6 PCB | [Link](https://s.click.aliexpress.com/e/_DllR7eL) | | |
-| Stlink / programming adapter | | 1 | Use our [Official programming adapter](https://source-robotics.com/products/parol6-programming-adapter) for ease of use! Pin order needs to be: SWCLK, SWDIO, GND, 3V3, 5V | [Link](https://s.click.aliexpress.com/e/_DCPwBnn) | | |
+| Stlink / programming adapter | | 1 | Use our [Official programming adapter](https://source-robotics.com/products/parol6-programming-adapter) for ease of use! Pin order needs to be: SWCLK, SWDIO, GND, 3V3, 5V | [Link](https://s.click.aliexpress.com/e/_c38Ao641) | | |
 | USB B cable | | 1 | Comms to the PC | | | |
 | 5/2 solenoid air valve | | 1 | 4mm tube connectors, 5/2, 24V | [Link](https://s.click.aliexpress.com/e/_DDrw0Ux) | | [Link](BOM%20reference%20images/solenoid_valve.png) |
 
