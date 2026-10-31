@@ -57,6 +57,33 @@ If you want to Source all the parts yourself and build your own follow these ste
 
 - [Community projects](community_projects.md) — GUIs, vision/AI demos, and hardware mods built by the community
 
+## Robot description models
+
+Maintained URDF and MuJoCo models are included through the
+[models/descriptions](models/descriptions) submodule, pinned to
+[robot_descriptions v2.12.1](https://github.com/Source-Robotics/robot_descriptions/releases/tag/v2.12.1).
+
+| Format | Package | Local path |
+| --- | --- | --- |
+| MuJoCo | [Model and scenes](https://github.com/Source-Robotics/robot_descriptions/tree/v2.12.1/mujoco/parol6) | `models/descriptions/mujoco/parol6` |
+| URDF | [Description package](https://github.com/Source-Robotics/robot_descriptions/tree/v2.12.1/urdf/parol6_description) | `models/descriptions/urdf/parol6_description` |
+
+Both formats include flange-only, MSG Solid/Soft TPU jaws, SSG48 Solid/Fin-ray
+jaws, and pneumatic-gripper configurations, with meshes, DH tables and
+dimensioned review diagrams. Ready-to-use ZIPs are available in the linked
+release. Frame conventions and remaining physical calibration assumptions
+are documented in the model packages.
+
+Initialize the models in an existing checkout with:
+
+```bash
+git submodule update --init --recursive
+```
+
+For a new checkout, use `git clone --recurse-submodules` with this repository's
+URL. Model updates are reviewed as an explicit submodule commit change;
+maintain the model sources in `robot_descriptions`.
+
 ## 🌐 More about PAROL6 robotic arm
 
 | YouTube | Instagram | Twitter | LinkedIn |
