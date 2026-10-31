@@ -57,33 +57,6 @@ If you want to Source all the parts yourself and build your own follow these ste
 
 - [Community projects](community_projects.md) — GUIs, vision/AI demos, and hardware mods built by the community
 
-## Robot description models
-
-Maintained URDF and MuJoCo models are included through the
-[models/descriptions](models/descriptions) submodule, pinned to
-[robot_descriptions v2.12.1](https://github.com/Source-Robotics/robot_descriptions/releases/tag/v2.12.1).
-
-| Format | Package | Local path |
-| --- | --- | --- |
-| MuJoCo | [Model and scenes](https://github.com/Source-Robotics/robot_descriptions/tree/v2.12.1/mujoco/parol6) | `models/descriptions/mujoco/parol6` |
-| URDF | [Description package](https://github.com/Source-Robotics/robot_descriptions/tree/v2.12.1/urdf/parol6_description) | `models/descriptions/urdf/parol6_description` |
-
-Both formats include flange-only, MSG Solid/Soft TPU jaws, SSG48 Solid/Fin-ray
-jaws, and pneumatic-gripper configurations, with meshes, DH tables and
-dimensioned review diagrams. Ready-to-use ZIPs are available in the linked
-release. Frame conventions and remaining physical calibration assumptions
-are documented in the model packages.
-
-Initialize the models in an existing checkout with:
-
-```bash
-git submodule update --init --recursive
-```
-
-For a new checkout, use `git clone --recurse-submodules` with this repository's
-URL. Model updates are reviewed as an explicit submodule commit change;
-maintain the model sources in `robot_descriptions`.
-
 ## 🌐 More about PAROL6 robotic arm
 
 | YouTube | Instagram | Twitter | LinkedIn |
@@ -94,6 +67,42 @@ maintain the model sources in `robot_descriptions`.
 | Discord | Forum | Hackaday | Blog |
 |--------|-------|------| ------|
 | [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/invite/prjUvjmGpZ) | [![Forum](https://img.shields.io/badge/Forum-0A0A0A)](https://discourse.source-robotics.com/) | [![Hackaday](https://img.shields.io/badge/Hackaday-000000?logo=hackaday&logoColor=white)](https://hackaday.io/project/191860-parol6-desktop-robotic-arm) | [![Blog](https://img.shields.io/badge/Blog-Source%20Robotics-blue)](https://source-robotics.com/blogs/blog) 
+
+## Simulation models (URDF and MuJoCo)
+
+**[Start with the PAROL6 model guide](https://github.com/Source-Robotics/robot_descriptions/blob/cc8168520e0c57328b9a9a8e39462b1162b96984/guides/parol6.md)** for downloads, jaw/end-effector
+selection and instructions for opening the models.
+
+The maintained models are included through the **[`models/descriptions`](https://github.com/Source-Robotics/robot_descriptions/tree/cc8168520e0c57328b9a9a8e39462b1162b96984)**
+Git submodule. It pins model version **2.12.1** together with its guided
+documentation. Clicking the submodule opens the shared descriptions landing
+page; select PAROL6 there.
+
+All six configurations are included: Flange only; MSG with Solid or Soft TPU
+jaws; SSG48 with Solid or Fin-ray jaws; and the pneumatic gripper. The old local
+model folder is replaced by this shared source. See the
+[migration guide](https://github.com/Source-Robotics/robot_descriptions/blob/cc8168520e0c57328b9a9a8e39462b1162b96984/guides/legacy-models.md)
+for changed file locations, public joint names and links to the previous files.
+
+Clone this repository with its models:
+
+```bash
+git clone --recurse-submodules https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm.git
+```
+
+For an existing checkout:
+
+```bash
+git submodule update --init --recursive
+```
+
+Local model folders: `models/descriptions/mujoco/parol6` and
+`models/descriptions/urdf/parol6_description`.
+
+GitHub's **Download ZIP** does not include submodule contents. For model files
+without Git, use the [ready-to-use model ZIPs](https://github.com/Source-Robotics/robot_descriptions/releases/latest)
+linked in the guide. Model changes are maintained in `robot_descriptions`; this
+repository records an exact version rather than automatically following updates.
 
 ## ⚠️ Safety, Liability & Disclaimer
 This project includes experimental software, hardware designs, and assembly documentation that are still under development and may contain bugs, errors, or incomplete features. By using, building, or modifying this project, you acknowledge that:
