@@ -17,7 +17,7 @@ Most items have links where you can buy the item, and some of them are affiliate
 | M3 | 8 mm | 10 | 2 mm head height |
 | M3 | 8 mm | 50 | DIN 912 / ISO 4762 (hexagon socket head cap) |
 | M3 | 14 mm | 30 | DIN 912 / ISO 4762 (hexagon socket head cap) |
-| M3 nut | — | 10 | DIN 912 / ISO 4762 (hexagon socket head cap) |
+| M3 nut | — | 10 | DIN 934 / ISO 4032 (hexagon nut) |
 | M3 | 25 mm | 10 | DIN 912 / ISO 4762 (hexagon socket head cap) |
 | M2 | 10 mm | 10 | DIN 912 / ISO 4762 (hexagon socket head cap) |
 | M3 | 16 mm | 10 | DIN 912 / ISO 4762 (hexagon socket head cap) |
@@ -128,9 +128,9 @@ Most items have links where you can buy the item, and some of them are affiliate
 
 | Name | Type | Quantity | Description | Link | ALT link | Reference Image |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Suction cup gripper | | 1 | | [Link](https://www.aliexpress.com/item/4000538850003.html) | | |
+| Suction cup gripper | | 1 | | [Link](https://s.click.aliexpress.com/e/_c3bSPdVZ) | | [Link](BOM%20reference%20images/Suction%20cup%20gripper.jpg) |
 | Vacuum generator | | 1 | | [Link](https://s.click.aliexpress.com/e/_c44Degkz) | | [Link](BOM%20reference%20images/Vacuum%20generator.jpg) |
-| 4mm to 6mm coupler | | 1 | | [Link](https://s.click.aliexpress.com/e/_DeEEqHR) | | |
+| 4mm to 6mm coupler | | 1 | | [Link](https://s.click.aliexpress.com/e/_c3wvdY99) | | [Link](BOM%20reference%20images/Pneumatic%20coupler%204%20to%206%20mm.jpg) |
 
 ---
 
@@ -141,6 +141,6 @@ Most items have links where you can buy the item, and some of them are affiliate
 
 | Name | Type | Quantity | Description | Link | ALT link | Reference Image |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| J1 turret dowel pin | Dowel pin 4 x 18 mm | 3 | Solid cylindrical, stainless or hardened steel | [Link](https://www.aliexpress.com/item/1005009401701158.html) | | |
-| Upper arm dowel pin | Dowel pin 6 x 22 mm | 4 | Solid cylindrical, stainless or hardened steel | [Link](https://www.aliexpress.com/item/1005009401701158.html) | | |
+| J1 turret dowel pin | Dowel pin 4 x 18 mm | 3 | Solid cylindrical, stainless or hardened steel | [Link](https://www.aliexpress.com/item/1005009401701158.html) | | [Link](BOM%20reference%20images/Dowel%20pin.jpg) |
+| Upper arm dowel pin | Dowel pin 6 x 22 mm | 4 | Solid cylindrical, stainless or hardened steel | [Link](https://www.aliexpress.com/item/1005009401701158.html) | | [Link](BOM%20reference%20images/Dowel%20pin.jpg) |
 | Two part epoxy | Epoxy adhesive | 1 | 1:1 mix, slow setting | [Link](https://www.aliexpress.com/item/1005012397836514.html) | | |
