@@ -129,7 +129,7 @@ Most items have links where you can buy the item, and some of them are affiliate
 | Name | Type | Quantity | Description | Link | ALT link | Reference Image |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Suction cup gripper | | 1 | | [Link](https://s.click.aliexpress.com/e/_c3bSPdVZ) | | [Link](BOM%20reference%20images/Suction%20cup%20gripper.jpg) |
-| Vacuum generator | | 1 | | [Link](https://s.click.aliexpress.com/e/_c44Degkz) | | [Link](BOM%20reference%20images/Vacuum%20generator.jpg) |
+| Vacuum generator | | 1 | | [Link](https://s.click.aliexpress.com/e/_c2zw8dHh) | | [Link](BOM%20reference%20images/Vacuum%20generator.jpg) |
 | 4mm to 6mm coupler | | 1 | | [Link](https://s.click.aliexpress.com/e/_c3wvdY99) | | [Link](BOM%20reference%20images/Pneumatic%20coupler%204%20to%206%20mm.jpg) |
 
 ---
