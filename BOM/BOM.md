@@ -102,10 +102,10 @@ Most items have links where you can buy the item, and some of them are affiliate
 | Thermal paste / cement | | 2 | Needed only if your control board has no drivers! | [Link](https://s.click.aliexpress.com/e/_c2u86OEn) | | [Link](BOM%20reference%20images/Thermal%20cement.jpg) |
 | On/Off button | | 1 | 12mm 3-6V | [Link](https://s.click.aliexpress.com/e/_DBpZV3h) | | [Link](BOM%20reference%20images/button.png) |
 | JST PH 2.0mm 200mm 4PIN | | 1 | For power button | [Link](https://s.click.aliexpress.com/e/_DeObQ1D) | | [Link](BOM%20reference%20images/JST_PH.png) |
-| Noctua NF-A4x20 5V 40mm | | 1 | or any 40mm 5V fan| | | |
+| Noctua NF-A4x20 5V 40mm | | 1 | or any 40mm 5V fan| | | [Link](BOM%20reference%20images/Noctua%20NF-A4x20%20fan.jpg) |
 | Power connector - male + female | | 1 | GX16 2PIN | [Link](https://s.click.aliexpress.com/e/_DcHjMfN) | | [Link](BOM%20reference%20images/GX16.jpg) |
 | Gripper connector (electric) | | 1 | M8 sensor Female 4 pin | [Link](https://s.click.aliexpress.com/e/_DDQz9iP) | | [Link](BOM%20reference%20images/M8%20connector%20female%204pin.png) |
-| Power supply | | 1 | Any 24V 5A supply | [Link](https://www.omc-stepperonline.com/edr-120-24-mean-well-120w-24vdc-5a-115-230vac-din-rail-power-supply-edr-120-24?tracking=6543849d6ff69) | [Alt Link](https://s.click.aliexpress.com/e/_olFOM5Z) | |
+| Power supply | | 1 | Any 24V 5A supply | [Link](https://www.omc-stepperonline.com/edr-120-24-mean-well-120w-24vdc-5a-115-230vac-din-rail-power-supply-edr-120-24?tracking=6543849d6ff69) | [Alt Link](https://s.click.aliexpress.com/e/_olFOM5Z) | [Link](BOM%20reference%20images/Power%20supply%20EDR-120-24.jpg) |
 | Limit switches | | 3 | Type ZW12-3 | [Link](https://s.click.aliexpress.com/e/_DBq6eeF) | | [Link](BOM%20reference%20images/LIMIT_SWITCH.png) |
 | Inductive sensor 1 | | 1 | 4mm NPN NO | [Link](https://s.click.aliexpress.com/e/_c40MRkk5) | [Alt Link](https://s.click.aliexpress.com/e/_c3CMbO1h) | [Link](BOM%20reference%20images/INDUCTIVE_4MM.png) |
 | Inductive sensor 2 | | 1 | GX-F8A | [Link](https://s.click.aliexpress.com/e/_c4VxLtW3) | | [Link](BOM%20reference%20images/GX-F8A.png) |
@@ -118,8 +118,8 @@ Most items have links where you can buy the item, and some of them are affiliate
 | Pneumatic gripper connector | | 2 | PC4 - M5 | [Link](https://s.click.aliexpress.com/e/_DkCJqUL) | | [Link](BOM%20reference%20images/PC4-M5.png) |
 | Pneumatic tube | | 5 meters | 1 meter, 4x2.5mm | [Link](https://s.click.aliexpress.com/e/_DEhvFyJ) | | [Link](BOM%20reference%20images/Pneumatic_tube.png) |
 | xt30 connector female | | 1 | Used to deliver power to PAROL6 PCB | [Link](https://s.click.aliexpress.com/e/_DllR7eL) | | [Link](BOM%20reference%20images/XT30%20female%20connector.jpg) |
-| Stlink / programming adapter | | 1 | Use our [Official programming adapter](https://source-robotics.com/products/parol6-programming-adapter) for ease of use! Pin order needs to be: SWCLK, SWDIO, GND, 3V3, 5V | [Link](https://s.click.aliexpress.com/e/_c38Ao641) | | [Link](BOM%20reference%20images/ST-Link%20V2%20programmer.jpg) |
-| USB B cable | | 1 | Comms to the PC | | | |
+| Stlink / programming adapter | | 1 | Use our [Official programming adapter](https://source-robotics.com/products/parol6-programming-adapter) for ease of use! Pin order needs to be: SWCLK, SWDIO, GND, 3V3, 5V | [Link](https://s.click.aliexpress.com/e/_c38Ao641) | | [Link](BOM%20reference%20images/PAROL6%20programming%20adapter.jpg) |
+| USB B cable | | 1 | Comms to the PC | | | [Link](BOM%20reference%20images/USB%20B%20cable.jpg) |
 | 5/2 solenoid air valve | | 1 | 4mm tube connectors, 5/2, 24V | [Link](https://s.click.aliexpress.com/e/_DDrw0Ux) | | [Link](BOM%20reference%20images/solenoid_valve.png) |
 
 ---
@@ -129,7 +129,7 @@ Most items have links where you can buy the item, and some of them are affiliate
 | Name | Type | Quantity | Description | Link | ALT link | Reference Image |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Suction cup gripper | | 1 | | [Link](https://www.aliexpress.com/item/4000538850003.html) | | |
-| Vacuum generator | | 1 | | [Link](https://s.click.aliexpress.com/e/_c44Degkz) | | |
+| Vacuum generator | | 1 | | [Link](https://s.click.aliexpress.com/e/_c44Degkz) | | [Link](BOM%20reference%20images/Vacuum%20generator.jpg) |
 | 4mm to 6mm coupler | | 1 | | [Link](https://s.click.aliexpress.com/e/_DeEEqHR) | | |
 
 ---
