@@ -5,6 +5,19 @@
 
 </div>
 
+## URDF and MuJoCo models
+
+**[Open the PAROL6 model guide and downloads](description/)**
+
+The `description/` folder opens instructions specifically for PAROL6:
+model downloads, all six end effectors and opening instructions.
+The maintained source is nested at `description/source/`, pinned to **v2.13.0**.
+For an existing clone, run `git submodule sync --recursive` followed by
+`git submodule update --init --recursive`; for a new clone use
+`git clone --recurse-submodules`. Model ZIP downloads work without Git.
+
+
+
 
 <img src="Images/img3.png" alt="drawing" width="5000"/>
 
@@ -68,41 +81,6 @@ If you want to Source all the parts yourself and build your own follow these ste
 |--------|-------|------| ------|
 | [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/invite/prjUvjmGpZ) | [![Forum](https://img.shields.io/badge/Forum-0A0A0A)](https://discourse.source-robotics.com/) | [![Hackaday](https://img.shields.io/badge/Hackaday-000000?logo=hackaday&logoColor=white)](https://hackaday.io/project/191860-parol6-desktop-robotic-arm) | [![Blog](https://img.shields.io/badge/Blog-Source%20Robotics-blue)](https://source-robotics.com/blogs/blog) 
 
-## Simulation models (URDF and MuJoCo)
-
-**[Start with the PAROL6 model guide](https://github.com/Source-Robotics/robot_descriptions/blob/cc8168520e0c57328b9a9a8e39462b1162b96984/guides/parol6.md)** for downloads, jaw/end-effector
-selection and instructions for opening the models.
-
-The maintained models are included through the **[`models/descriptions`](https://github.com/Source-Robotics/robot_descriptions/tree/cc8168520e0c57328b9a9a8e39462b1162b96984)**
-Git submodule. It pins model version **2.12.1** together with its guided
-documentation. Clicking the submodule opens the shared descriptions landing
-page; select PAROL6 there.
-
-All six configurations are included: Flange only; MSG with Solid or Soft TPU
-jaws; SSG48 with Solid or Fin-ray jaws; and the pneumatic gripper. The old local
-model folder is replaced by this shared source. See the
-[migration guide](https://github.com/Source-Robotics/robot_descriptions/blob/cc8168520e0c57328b9a9a8e39462b1162b96984/guides/legacy-models.md)
-for changed file locations, public joint names and links to the previous files.
-
-Clone this repository with its models:
-
-```bash
-git clone --recurse-submodules https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm.git
-```
-
-For an existing checkout:
-
-```bash
-git submodule update --init --recursive
-```
-
-Local model folders: `models/descriptions/mujoco/parol6` and
-`models/descriptions/urdf/parol6_description`.
-
-GitHub's **Download ZIP** does not include submodule contents. For model files
-without Git, use the [ready-to-use model ZIPs](https://github.com/Source-Robotics/robot_descriptions/releases/latest)
-linked in the guide. Model changes are maintained in `robot_descriptions`; this
-repository records an exact version rather than automatically following updates.
 
 ## ⚠️ Safety, Liability & Disclaimer
 This project includes experimental software, hardware designs, and assembly documentation that are still under development and may contain bugs, errors, or incomplete features. By using, building, or modifying this project, you acknowledge that:
