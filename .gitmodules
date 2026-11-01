@@ -1,3 +1,0 @@
-[submodule "robot_descriptions"]
-	path = description/source
-	url = https://github.com/Source-Robotics/robot_descriptions.git

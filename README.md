@@ -7,14 +7,15 @@
 
 ## URDF and MuJoCo models
 
-**[Open the PAROL6 model guide and downloads](description/)**
+**[Open the PAROL6 model guide and downloads](parol6_description/)**
 
-The `description/` folder opens instructions specifically for PAROL6:
-model downloads, all six end effectors and opening instructions.
-The maintained source is nested at `description/source/`, pinned to **v2.13.0**.
-For an existing clone, run `git submodule sync --recursive` followed by
-`git submodule update --init --recursive`; for a new clone use
-`git clone --recurse-submodules`. Model ZIP downloads work without Git.
+The `parol6_description/` folder contains the product README, preview images and
+download links for all six robot/end-effector configurations.
+All maintained model files live in [robot_descriptions](https://github.com/Source-Robotics/robot_descriptions).
+Download the model ZIP for your product and simulator from the guide, then
+extract it into your working directory. This hardware repository needs no
+model submodule or recursive clone.
+
 
 
 
