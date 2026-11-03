@@ -1,12 +1,12 @@
 # PAROL6 models: getting started
 
-[All models](https://github.com/Source-Robotics/robot_descriptions/blob/5e3d0e80542d4f81bfb607f2a15b408f3ceccf3c/README.md) | [MSG jaws](https://github.com/Source-Robotics/robot_descriptions/blob/5e3d0e80542d4f81bfb607f2a15b408f3ceccf3c/guides/msg.md) | [SSG48 jaws](https://github.com/Source-Robotics/robot_descriptions/blob/5e3d0e80542d4f81bfb607f2a15b408f3ceccf3c/guides/ssg48.md) | [Change colors](https://github.com/Source-Robotics/robot_descriptions/blob/5e3d0e80542d4f81bfb607f2a15b408f3ceccf3c/docs/COLORS.md) | [License and attribution](https://github.com/Source-Robotics/robot_descriptions/blob/5e3d0e80542d4f81bfb607f2a15b408f3ceccf3c/ATTRIBUTION.md)
+[All models](https://github.com/Source-Robotics/robot_descriptions/blob/e5b482dc05068fa2d3faa64fa1a028c7edec3686/README.md) | [MSG jaws](https://github.com/Source-Robotics/robot_descriptions/blob/e5b482dc05068fa2d3faa64fa1a028c7edec3686/guides/msg.md) | [SSG48 jaws](https://github.com/Source-Robotics/robot_descriptions/blob/e5b482dc05068fa2d3faa64fa1a028c7edec3686/guides/ssg48.md) | [Change colors](https://github.com/Source-Robotics/robot_descriptions/blob/e5b482dc05068fa2d3faa64fa1a028c7edec3686/docs/COLORS.md) | [License and attribution](https://github.com/Source-Robotics/robot_descriptions/blob/e5b482dc05068fa2d3faa64fa1a028c7edec3686/ATTRIBUTION.md)
 
 PAROL6 is available in **MuJoCo and URDF**, with all six configurations below.
 The default `scene.xml` in the MuJoCo package opens the MSG with Solid jaws.
 
-To customize appearance, edit the [shared color file](https://github.com/Source-Robotics/robot_descriptions/blob/5e3d0e80542d4f81bfb607f2a15b408f3ceccf3c/source/appearance/colors.json)
-and follow the [illustrated color guide](https://github.com/Source-Robotics/robot_descriptions/blob/5e3d0e80542d4f81bfb607f2a15b408f3ceccf3c/docs/COLORS.md). One palette covers both formats and all tools.
+To customize appearance, edit the [shared color file](https://github.com/Source-Robotics/robot_descriptions/blob/e5b482dc05068fa2d3faa64fa1a028c7edec3686/source/appearance/colors.json)
+and follow the [illustrated color guide](https://github.com/Source-Robotics/robot_descriptions/blob/e5b482dc05068fa2d3faa64fa1a028c7edec3686/docs/COLORS.md). One palette covers both formats and all tools.
 
 ### PAROL6 with MSG
 
@@ -28,12 +28,12 @@ and textures. No CAD tools or source build are needed to use these downloads.
 
 | End effector | MuJoCo entry file | URDF entry file |
 | --- | --- | --- |
-| Flange only | [`scene_flange.xml`](https://github.com/Source-Robotics/robot_descriptions/blob/5e3d0e80542d4f81bfb607f2a15b408f3ceccf3c/mujoco/parol6/scene_flange.xml) | [`parol6_flange.urdf`](https://github.com/Source-Robotics/robot_descriptions/blob/5e3d0e80542d4f81bfb607f2a15b408f3ceccf3c/urdf/parol6_description/parol6_flange.urdf) |
-| MSG - Solid jaws (default) | [`scene_msg.xml`](https://github.com/Source-Robotics/robot_descriptions/blob/5e3d0e80542d4f81bfb607f2a15b408f3ceccf3c/mujoco/parol6/scene_msg.xml) | [`parol6_msg.urdf`](https://github.com/Source-Robotics/robot_descriptions/blob/5e3d0e80542d4f81bfb607f2a15b408f3ceccf3c/urdf/parol6_description/parol6_msg.urdf) |
-| MSG - Soft TPU jaws | [`scene_msg_tpu_glue.xml`](https://github.com/Source-Robotics/robot_descriptions/blob/5e3d0e80542d4f81bfb607f2a15b408f3ceccf3c/mujoco/parol6/scene_msg_tpu_glue.xml) | [`parol6_msg_tpu_glue.urdf`](https://github.com/Source-Robotics/robot_descriptions/blob/5e3d0e80542d4f81bfb607f2a15b408f3ceccf3c/urdf/parol6_description/parol6_msg_tpu_glue.urdf) |
-| SSG48 - Solid jaws (default) | [`scene_ssg48.xml`](https://github.com/Source-Robotics/robot_descriptions/blob/5e3d0e80542d4f81bfb607f2a15b408f3ceccf3c/mujoco/parol6/scene_ssg48.xml) | [`parol6_ssg48.urdf`](https://github.com/Source-Robotics/robot_descriptions/blob/5e3d0e80542d4f81bfb607f2a15b408f3ceccf3c/urdf/parol6_description/parol6_ssg48.urdf) |
-| SSG48 - Fin-ray jaws | [`scene_ssg48_stock.xml`](https://github.com/Source-Robotics/robot_descriptions/blob/5e3d0e80542d4f81bfb607f2a15b408f3ceccf3c/mujoco/parol6/scene_ssg48_stock.xml) | [`parol6_ssg48_stock.urdf`](https://github.com/Source-Robotics/robot_descriptions/blob/5e3d0e80542d4f81bfb607f2a15b408f3ceccf3c/urdf/parol6_description/parol6_ssg48_stock.urdf) |
-| Pneumatic gripper | [`scene_pneumatic.xml`](https://github.com/Source-Robotics/robot_descriptions/blob/5e3d0e80542d4f81bfb607f2a15b408f3ceccf3c/mujoco/parol6/scene_pneumatic.xml) | [`parol6_pneumatic.urdf`](https://github.com/Source-Robotics/robot_descriptions/blob/5e3d0e80542d4f81bfb607f2a15b408f3ceccf3c/urdf/parol6_description/parol6_pneumatic.urdf) |
+| Flange only | [`scene_flange.xml`](https://github.com/Source-Robotics/robot_descriptions/blob/e5b482dc05068fa2d3faa64fa1a028c7edec3686/mujoco/parol6/scene_flange.xml) | [`parol6_flange.urdf`](https://github.com/Source-Robotics/robot_descriptions/blob/e5b482dc05068fa2d3faa64fa1a028c7edec3686/urdf/parol6_description/parol6_flange.urdf) |
+| MSG - Solid jaws (default) | [`scene_msg.xml`](https://github.com/Source-Robotics/robot_descriptions/blob/e5b482dc05068fa2d3faa64fa1a028c7edec3686/mujoco/parol6/scene_msg.xml) | [`parol6_msg.urdf`](https://github.com/Source-Robotics/robot_descriptions/blob/e5b482dc05068fa2d3faa64fa1a028c7edec3686/urdf/parol6_description/parol6_msg.urdf) |
+| MSG - Soft TPU jaws | [`scene_msg_tpu_glue.xml`](https://github.com/Source-Robotics/robot_descriptions/blob/e5b482dc05068fa2d3faa64fa1a028c7edec3686/mujoco/parol6/scene_msg_tpu_glue.xml) | [`parol6_msg_tpu_glue.urdf`](https://github.com/Source-Robotics/robot_descriptions/blob/e5b482dc05068fa2d3faa64fa1a028c7edec3686/urdf/parol6_description/parol6_msg_tpu_glue.urdf) |
+| SSG48 - Solid jaws (default) | [`scene_ssg48.xml`](https://github.com/Source-Robotics/robot_descriptions/blob/e5b482dc05068fa2d3faa64fa1a028c7edec3686/mujoco/parol6/scene_ssg48.xml) | [`parol6_ssg48.urdf`](https://github.com/Source-Robotics/robot_descriptions/blob/e5b482dc05068fa2d3faa64fa1a028c7edec3686/urdf/parol6_description/parol6_ssg48.urdf) |
+| SSG48 - Fin-ray jaws | [`scene_ssg48_stock.xml`](https://github.com/Source-Robotics/robot_descriptions/blob/e5b482dc05068fa2d3faa64fa1a028c7edec3686/mujoco/parol6/scene_ssg48_stock.xml) | [`parol6_ssg48_stock.urdf`](https://github.com/Source-Robotics/robot_descriptions/blob/e5b482dc05068fa2d3faa64fa1a028c7edec3686/urdf/parol6_description/parol6_ssg48_stock.urdf) |
+| Pneumatic gripper | [`scene_pneumatic.xml`](https://github.com/Source-Robotics/robot_descriptions/blob/e5b482dc05068fa2d3faa64fa1a028c7edec3686/mujoco/parol6/scene_pneumatic.xml) | [`parol6_pneumatic.urdf`](https://github.com/Source-Robotics/robot_descriptions/blob/e5b482dc05068fa2d3faa64fa1a028c7edec3686/urdf/parol6_description/parol6_pneumatic.urdf) |
 
 The links point to the source checkout. The downloaded packages contain the
 same entry files. Each configuration includes the corresponding joints,
@@ -65,7 +65,7 @@ or ROS workspace to use the actual model package.
 provide this one URDF package with all its assets.
 
 **ROS 2 / RViz:** install the extracted `parol6_description` package with
-colcon using [the ROS 2 guide](https://github.com/Source-Robotics/robot_descriptions/blob/5e3d0e80542d4f81bfb607f2a15b408f3ceccf3c/docs/ROS2.md), source your workspace, then run:
+colcon using [the ROS 2 guide](https://github.com/Source-Robotics/robot_descriptions/blob/e5b482dc05068fa2d3faa64fa1a028c7edec3686/docs/ROS2.md), source your workspace, then run:
 
 ```bash
 ros2 launch parol6_description display.launch.py end_effector:=msg jaws:=solid
@@ -79,7 +79,7 @@ from the guide. ROS 1 retains `roslaunch parol6_description display.launch end_e
 
 Download [parol6_moveit_config.zip](https://github.com/Source-Robotics/robot_descriptions/releases/latest/download/parol6_moveit_config.zip)
 alongside the PAROL6 URDF ZIP from the same release. Follow the
-[MoveIt 2 installation and RViz walkthrough](https://github.com/Source-Robotics/robot_descriptions/blob/5e3d0e80542d4f81bfb607f2a15b408f3ceccf3c/docs/MOVEIT2.md), then run:
+[MoveIt 2 installation and RViz walkthrough](https://github.com/Source-Robotics/robot_descriptions/blob/e5b482dc05068fa2d3faa64fa1a028c7edec3686/docs/MOVEIT2.md), then run:
 
 ```bash
 ros2 launch parol6_moveit_config demo.launch.py end_effector:=ssg48 jaws:=fin_ray
@@ -92,14 +92,14 @@ control and contact/physics simulation are separate integrations.
 
 ## 5. Check dimensions and frames
 
-For MSG configurations, see [the built-in camera view](https://github.com/Source-Robotics/robot_descriptions/blob/5e3d0e80542d4f81bfb607f2a15b408f3ceccf3c/docs/MSG_CAMERA.md).
+For MSG configurations, see [the built-in camera view](https://github.com/Source-Robotics/robot_descriptions/blob/e5b482dc05068fa2d3faa64fa1a028c7edec3686/docs/MSG_CAMERA.md).
 
-- [Dimensioned PAROL6 review sheets](https://github.com/Source-Robotics/robot_descriptions/blob/5e3d0e80542d4f81bfb607f2a15b408f3ceccf3c/mujoco/parol6/docs/KINEMATIC_REVIEW.md)
-- [PAROL6 DH convention](https://github.com/Source-Robotics/robot_descriptions/blob/5e3d0e80542d4f81bfb607f2a15b408f3ceccf3c/mujoco/parol6/docs/DH.md)
-- [PAR6 / PAROL6 comparison](https://github.com/Source-Robotics/robot_descriptions/blob/5e3d0e80542d4f81bfb607f2a15b408f3ceccf3c/reports/par6_parol6_kinematics.md)
-- [Mass, COM and inertia status](https://github.com/Source-Robotics/robot_descriptions/blob/5e3d0e80542d4f81bfb607f2a15b408f3ceccf3c/mujoco/parol6/docs/DYNAMICS.md)
-- [Actuator settings](https://github.com/Source-Robotics/robot_descriptions/blob/5e3d0e80542d4f81bfb607f2a15b408f3ceccf3c/mujoco/parol6/docs/ACTUATION.md)
-- [Pneumatic jaw motion and controls](https://github.com/Source-Robotics/robot_descriptions/blob/5e3d0e80542d4f81bfb607f2a15b408f3ceccf3c/mujoco/parol6/docs/PNEUMATIC.md)
+- [Dimensioned PAROL6 review sheets](https://github.com/Source-Robotics/robot_descriptions/blob/e5b482dc05068fa2d3faa64fa1a028c7edec3686/mujoco/parol6/docs/KINEMATIC_REVIEW.md)
+- [PAROL6 DH convention](https://github.com/Source-Robotics/robot_descriptions/blob/e5b482dc05068fa2d3faa64fa1a028c7edec3686/mujoco/parol6/docs/DH.md)
+- [PAR6 / PAROL6 comparison](https://github.com/Source-Robotics/robot_descriptions/blob/e5b482dc05068fa2d3faa64fa1a028c7edec3686/reports/par6_parol6_kinematics.md)
+- [Mass, COM and inertia status](https://github.com/Source-Robotics/robot_descriptions/blob/e5b482dc05068fa2d3faa64fa1a028c7edec3686/mujoco/parol6/docs/DYNAMICS.md)
+- [Actuator settings](https://github.com/Source-Robotics/robot_descriptions/blob/e5b482dc05068fa2d3faa64fa1a028c7edec3686/mujoco/parol6/docs/ACTUATION.md)
+- [Pneumatic jaw motion and controls](https://github.com/Source-Robotics/robot_descriptions/blob/e5b482dc05068fa2d3faa64fa1a028c7edec3686/mujoco/parol6/docs/PNEUMATIC.md)
 
 `flange` is the physical tool-mounting face; `tcp` is the configured control
 frame. Jaw-specific grasp centers have not been calibrated. PAR6 and PAROL6
@@ -110,8 +110,8 @@ wrist housings require different flange offsets.
 
 The shared repository replaces the older model folder in the PAROL6 hardware
 repository. File locations and some public joint names have changed. See the
-[name migration table](https://github.com/Source-Robotics/robot_descriptions/blob/5e3d0e80542d4f81bfb607f2a15b408f3ceccf3c/urdf/parol6_description/docs/MIGRATION.md) and
-[legacy-folder migration guide](https://github.com/Source-Robotics/robot_descriptions/blob/5e3d0e80542d4f81bfb607f2a15b408f3ceccf3c/guides/legacy-models.md) before updating existing code.
+[name migration table](https://github.com/Source-Robotics/robot_descriptions/blob/e5b482dc05068fa2d3faa64fa1a028c7edec3686/urdf/parol6_description/docs/MIGRATION.md) and
+[legacy-folder migration guide](https://github.com/Source-Robotics/robot_descriptions/blob/e5b482dc05068fa2d3faa64fa1a028c7edec3686/guides/legacy-models.md) before updating existing code.
 
 ## Maintained model source
 
@@ -121,5 +121,5 @@ All model files are maintained in [robot_descriptions](https://github.com/Source
 this hardware repository has no model submodule to initialize.
 
 Current tested model release: **[v2.18.0](https://github.com/Source-Robotics/robot_descriptions/releases/tag/v2.18.0)**.
-See the [shared product guide](https://github.com/Source-Robotics/robot_descriptions/blob/5e3d0e80542d4f81bfb607f2a15b408f3ceccf3c/guides/parol6.md)
+See the [shared product guide](https://github.com/Source-Robotics/robot_descriptions/blob/e5b482dc05068fa2d3faa64fa1a028c7edec3686/guides/parol6.md)
 for the corresponding central documentation.
