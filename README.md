@@ -28,7 +28,7 @@ model submodule or recursive clone.
 
 <div align="center">
 
-[![License: GPL-3.0](https://img.shields.io/badge/license-GPLv3-blue)](LICENSE)    ![Issues](https://img.shields.io/github/issues/Source-Robotics/PAROL6-Desktop-robot-arm) ![release](https://img.shields.io/github/v/release/Source-Robotics/PAROL6-Desktop-robot-arm) [![Powered by the Robotics Toolbox](https://raw.githubusercontent.com/petercorke/robotics-toolbox-python/master/.github/svg/rtb_powered.min.svg)](https://github.com/petercorke/robotics-toolbox-python) 
+[![License: CERN-OHL-S-2.0](https://img.shields.io/badge/license-CERN--OHL--S--2.0-blue)](LICENSE) [![Firmware: GPL-3.0](https://img.shields.io/badge/firmware-GPL--3.0-blue)](PAROL6%20control%20board%20main%20software/LICENSE)    ![Issues](https://img.shields.io/github/issues/Source-Robotics/PAROL6-Desktop-robot-arm) ![release](https://img.shields.io/github/v/release/Source-Robotics/PAROL6-Desktop-robot-arm) [![Powered by the Robotics Toolbox](https://raw.githubusercontent.com/petercorke/robotics-toolbox-python/master/.github/svg/rtb_powered.min.svg)](https://github.com/petercorke/robotics-toolbox-python) 
 
 <p align="center">
   <a href="https://docs.source-robotics.com/PAROL-docs/"><img src="https://img.shields.io/badge/doc-page-orange" alt="Documentation"></a>
@@ -96,4 +96,4 @@ This project includes experimental software, hardware designs, and assembly docu
 THIS PROJECT INVOLVES LETHAL VOLTAGES AND OTHER SERIOUS HAZARDS THAT CAN CAUSE SEVERE INJURY. YOU MUST READ THE FULL [SAFETY WARNING AND DISCLAIMER DOCUMENT](SAFETY_WARNING_AND_DISCLAIMER.md)  BEFORE USING ANY PROJECT FILES. BY PROCEEDING, YOU ACKNOWLEDGE AND ACCEPT ALL RISKS AND AGREE TO USE THIS PROJECT ENTIRELY AT YOUR OWN RESPONSIBILITY.
 
 ## 🛡️ Licensing
-Project is under GPLv3 Licence
+The hardware, everything in this repository except the firmware, is under the [CERN Open Hardware Licence Version 2 - Strongly Reciprocal](LICENSE) (CERN-OHL-S-2.0): the STL files, the BOM, the building instructions, the print table and the robot models. The firmware in `PAROL6 control board main software` and `PAROL6 control board test code` is under [GPL-3.0](PAROL6%20control%20board%20main%20software/LICENSE), and the libraries in their `lib` folders keep their own licences. Until 4 November 2026 the whole repository was under GPL-3.0.
