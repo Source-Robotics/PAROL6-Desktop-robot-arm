@@ -28,7 +28,7 @@
 
 | **6 axes** | **408 mm** | **0.5 to 1 kg** | **0.1 mm** | **5.5 kg** |
 |:-:|:-:|:-:|:-:|:-:|
-| NEMA 17 steppers | reach to the flange | payload | repeatability | robot weight |
+| open-loop NEMA 17 steppers | reach to the flange | payload | repeatability | robot weight |
 
 </div>
 
