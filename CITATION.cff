@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use PAROL6 in your work, please cite it as below."
+title: "PAROL6: open-source 3D-printed 6-axis desktop robot arm"
+type: software
+authors:
+  - name: Source Robotics
+    website: https://source-robotics.com
+  - given-names: Petar
+    family-names: Crnjak
+abstract: "A high-performance 3D-printed desktop robot arm, built like an industrial robot in its mechanics, control software and usability: BOM, STL and STEP files, firmware and build instructions."
+version: V1.1
+date-released: 2026-11-04
+repository-code: https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm
+url: https://docs.source-robotics.com/PAROL-docs/
+license: CERN-OHL-S-2.0
+keywords:
+  - robot arm
+  - 6-DOF
+  - desktop robot
+  - 3D printing
+  - open-source hardware
+  - physical AI
+  - LeRobot
+  - robotics
