@@ -28,12 +28,12 @@ model submodule or recursive clone.
 
 <div align="center">
 
-[![License: MIT](https://img.shields.io/badge/license-GPLv3-blue)](https://opensource.org/license/gpl-3-0/)    ![Issues](https://img.shields.io/github/issues/PCrnjak/PAROL6-Desktop-robot-arm) ![release](https://img.shields.io/github/v/release/PCrnjak/PAROL6-Desktop-robot-arm) [![Powered by the Robotics Toolbox](https://raw.githubusercontent.com/petercorke/robotics-toolbox-python/master/.github/svg/rtb_powered.min.svg)](https://github.com/petercorke/robotics-toolbox-python) 
+[![License: GPL-3.0](https://img.shields.io/badge/license-GPLv3-blue)](LICENSE)    ![Issues](https://img.shields.io/github/issues/Source-Robotics/PAROL6-Desktop-robot-arm) ![release](https://img.shields.io/github/v/release/Source-Robotics/PAROL6-Desktop-robot-arm) [![Powered by the Robotics Toolbox](https://raw.githubusercontent.com/petercorke/robotics-toolbox-python/master/.github/svg/rtb_powered.min.svg)](https://github.com/petercorke/robotics-toolbox-python) 
 
 <p align="center">
-  <a href="https://source-robotics.github.io/PAROL-docs/"><img src="https://img.shields.io/badge/doc-page-orange" alt="Documentation"></a>
+  <a href="https://docs.source-robotics.com/PAROL-docs/"><img src="https://img.shields.io/badge/doc-page-orange" alt="Documentation"></a>
   <a href="http://discord.gg/prjUvjmGpZ"><img src="https://img.shields.io/discord/1072498136284667955?logo=discord&color=blue" alt="Discord"></a>
-  <a href="https://source-robotics.com//"><img src="https://img.shields.io/badge/Shop-shopping-purple?logo=shopify" alt="Shop"></a>
+  <a href="https://source-robotics.com/"><img src="https://img.shields.io/badge/Shop-shopping-purple?logo=shopify" alt="Shop"></a>
   <a href="https://www.linkedin.com/company/source-robotics/"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin" alt="LinkedIn"></a>
   <a href="https://x.com/SourceRobotics"><img src="https://img.shields.io/badge/X-Follow-black?logo=x" alt="X"></a>
   <a href="https://www.youtube.com/@source-robotics"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube" alt="YouTube"></a>
@@ -54,20 +54,20 @@ You can buy the PAROL6 robotic arm on our website: https://source-robotics.com
 
 If you want to Source all the parts yourself and build your own follow these steps:
 
-* Source all the parts from the [BOM](https://github.com/PCrnjak/PAROL6-Desktop-robot-arm/tree/main/BOM)
-* Follow [Building instructions](https://github.com/PCrnjak/PAROL6-Desktop-robot-arm/tree/main/Building%20instructions) to assemble your robot
-* Follow [DOCS](https://source-robotics.github.io/PAROL-docs/) to get your robot up and running.
+* Source all the parts from the [BOM](https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm/tree/main/BOM)
+* Follow [Building instructions](https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm/tree/main/Building%20instructions) to assemble your robot
+* Follow [DOCS](https://docs.source-robotics.com/PAROL-docs/) to get your robot up and running.
 
 ## 📚 Resources
 - [Official website](https://source-robotics.com)
-- [Commander software](https://github.com/PCrnjak/PAROL-commander-software) ------ [Minimal hardware specs!](https://github.com/PCrnjak/PAROL-commander-software/blob/main/confirmed_working_systems.md)
+- [Commander software](https://github.com/Source-Robotics/PAROL-commander-software) ------ [Minimal hardware specs!](https://github.com/Source-Robotics/PAROL-commander-software/blob/main/confirmed_working_systems.md)
 - [PAROL-Web-Commander](https://github.com/Jepson2k/PAROL-Web-Commander) — alternative web-based commander software
 - [Python API](https://github.com/PCrnjak/PAROL6-python-API) ; [Python API legacy](https://github.com/PCrnjak/PAROL6-python-API-Alvar)
-- [Building instructions](https://github.com/PCrnjak/PAROL6-Desktop-robot-arm/tree/main/Building%20instructions)
-- [BOM](https://github.com/PCrnjak/PAROL6-Desktop-robot-arm/tree/main/BOM)
-- [DOCS](https://source-robotics.github.io/PAROL-docs/)
+- [Building instructions](https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm/tree/main/Building%20instructions)
+- [BOM](https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm/tree/main/BOM)
+- [DOCS](https://docs.source-robotics.com/PAROL-docs/)
 - [Video tutorials](https://youtube.com/playlist?list=PLSueoDrBt5MMTL9O8qAWZiJrNIf8-29Qz&si=Zca3UZKENje9ifow)
-- [ROS2 / Moveit simulation](https://github.com/PCrnjak/PAROL6-ROS2-MOVEIT)
+- [ROS2 / Moveit simulation](https://github.com/Source-Robotics/PAROL6-ROS2-MOVEIT)
 
 - [Community projects](community_projects.md) — GUIs, vision/AI demos, and hardware mods built by the community
 
@@ -80,7 +80,7 @@ If you want to Source all the parts yourself and build your own follow these ste
 
 | Discord | Forum | Hackaday | Blog |
 |--------|-------|------| ------|
-| [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/invite/prjUvjmGpZ) | [![Forum](https://img.shields.io/badge/Forum-0A0A0A)](https://discourse.source-robotics.com/) | [![Hackaday](https://img.shields.io/badge/Hackaday-000000?logo=hackaday&logoColor=white)](https://hackaday.io/project/191860-parol6-desktop-robotic-arm) | [![Blog](https://img.shields.io/badge/Blog-Source%20Robotics-blue)](https://source-robotics.com/blogs/blog) 
+| [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/invite/prjUvjmGpZ) | [![Discussions](https://img.shields.io/badge/Discussions-0A0A0A?logo=github)](https://github.com/orgs/Source-Robotics/discussions) | [![Hackaday](https://img.shields.io/badge/Hackaday-000000?logo=hackaday&logoColor=white)](https://hackaday.io/project/191860-parol6-desktop-robotic-arm) | [![Blog](https://img.shields.io/badge/Blog-Source%20Robotics-blue)](https://source-robotics.com/blogs/blog) 
 
 
 ## ⚠️ Safety, Liability & Disclaimer
