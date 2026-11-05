@@ -31,4 +31,4 @@ covers the reamers, dowel pins and epoxy you need, and the assembly steps for
 both parts.
 
 The extra hardware is listed under **Small print bed modification** in
-`BOM/BOM.md`.
+the [BOM](../../BOM/).
