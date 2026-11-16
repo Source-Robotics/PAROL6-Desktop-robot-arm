@@ -38,8 +38,8 @@ Most items have links where you can buy the item, and some of them are affiliate
 
 | Name | Type | Quantity | Description | Link | ALT link | Reference Image |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Gearbox 20:1 | Nema 17 20:1 | 2 | EG precision planetary | [Link](https://www.omc-stepperonline.com/eg-series-planetary-gearbox-gear-ratio-20-1-backlash-20-arc-min-for-nema-17-stepper-motor-eg17-g20?tracking=6543849d6ff69) | [Alt Link](https://s.click.aliexpress.com/e/_oEhMNU5)<br>[amazon.de](https://www.amazon.de/dp/B0DZH424BW?tag=sourcerobotic-20) | [Link](BOM%20reference%20images/stepper%2020_1.jpg) |
-| Gearbox 10:1 | Nema 17 10:1 | 1 | EG precision planetary | [Link](https://www.omc-stepperonline.com/eg-series-planetary-gearbox-gear-ratio-10-1-backlash-15-arc-min-for-nema-17-stepper-motor-eg17-g10?tracking=6543849d6ff69) | [Alt Link](https://s.click.aliexpress.com/e/_oEhMNU5)<br>[amazon.de](https://www.amazon.de/dp/B0BPGV5N18?tag=sourcerobotic-20) | [Link](BOM%20reference%20images/stepper%2010_1.jpg) |
+| Gearbox 20:1 | Nema 17 20:1 | 2 | EG precision planetary (amazon.de: MGL series) | [Link](https://www.omc-stepperonline.com/eg-series-planetary-gearbox-gear-ratio-20-1-backlash-20-arc-min-for-nema-17-stepper-motor-eg17-g20?tracking=6543849d6ff69) | [Alt Link](https://s.click.aliexpress.com/e/_oEhMNU5)<br>[amazon.de](https://www.amazon.de/dp/B0DZH424BW?tag=sourcerobotic-20) | [Link](BOM%20reference%20images/stepper%2020_1.jpg) |
+| Gearbox 10:1 | Nema 17 10:1 | 1 | EG precision planetary (amazon.de: MG series) | [Link](https://www.omc-stepperonline.com/eg-series-planetary-gearbox-gear-ratio-10-1-backlash-15-arc-min-for-nema-17-stepper-motor-eg17-g10?tracking=6543849d6ff69) | [Alt Link](https://s.click.aliexpress.com/e/_oEhMNU5)<br>[amazon.de](https://www.amazon.de/dp/B0BPGV5N18?tag=sourcerobotic-20) | [Link](BOM%20reference%20images/stepper%2010_1.jpg) |
 
 ---
 
