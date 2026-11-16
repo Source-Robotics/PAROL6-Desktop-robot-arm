@@ -2,7 +2,7 @@
 
 This file contains all the parts you need to build the PAROL6 robot!
 
-Most items have links where you can buy the item, and some of them are affiliate links. As an Amazon Associate we earn from qualifying purchases. Items like screws, belts and bearings can be bought locally or from many other vendors.
+Most items have links where you can buy the item. Many of them are affiliate links to AliExpress, StepperOnline and Amazon: if you buy through them, we earn a small commission at no extra cost to you. As an Amazon Associate we earn from qualifying purchases. Items like screws, belts and bearings can be bought locally or from many other vendors.
 
 > [!NOTE]
 > If any product links are broken, unavailable, or no longer point to the correct item, please [open an issue](https://github.com/PCrnjak/PAROL6-Desktop-robot-arm/issues/new). You can also use the reference images to find the same or an equivalent part from another supplier.
