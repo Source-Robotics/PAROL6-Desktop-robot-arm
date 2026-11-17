@@ -77,7 +77,7 @@ Most items have links where you can buy the item. Many of them are affiliate lin
 
 | Name | Type | Quantity | Description | Link | ALT link | Reference Image |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Shaft coupler | Shaft coupler | 3 | 8 mm hole shaft, M4 screw holes | [Link](https://s.click.aliexpress.com/e/_c2xnQgI7) | [amazon.de](https://www.amazon.de/dp/B0FNWRLWR4?tag=sourcerobotic-20) | [Link](BOM%20reference%20images/shaft%20coupler%20gripper.png) |
+| Shaft coupler | Shaft coupler | 3 | 8 mm hole shaft, M4 screw holes | [Link](https://s.click.aliexpress.com/e/_c2xnQgI7) | [amazon.de](https://www.amazon.de/dp/B0FNWRLWR4?tag=sourcerobotic-20)<br>[amazon.com](https://www.amazon.com/dp/B08335MYGW?tag=sourcerobotic-20) | [Link](BOM%20reference%20images/shaft%20coupler%20gripper.png) |
 
 ---
 
@@ -85,7 +85,7 @@ Most items have links where you can buy the item. Many of them are affiliate lin
 
 | Name | Type | Quantity | Description | Link | ALT link | Reference Image |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Bearing 1 | AXK3552 | 1 | 35X52X4, needs to have top and bottom plate | [Link](https://s.click.aliexpress.com/e/_Dk4bHg7) | [amazon.de](https://www.amazon.de/dp/B0GGTZ9VXN?tag=sourcerobotic-20) | [Link](BOM%20reference%20images/AXK3552%20needle%20bearing.png) |
+| Bearing 1 | AXK3552 | 1 | 35X52X4, needs to have top and bottom plate | [Link](https://s.click.aliexpress.com/e/_Dk4bHg7) | [amazon.de](https://www.amazon.de/dp/B0GGTZ9VXN?tag=sourcerobotic-20)<br>[amazon.com](https://www.amazon.com/dp/B0F9B1QQK4?tag=sourcerobotic-20) | [Link](BOM%20reference%20images/AXK3552%20needle%20bearing.png) |
 | Bearing 2 | NSK HR32906J | 5 | Joint 5, 4 and 3 | [Link](https://s.click.aliexpress.com/e/_DcJMtBl) | [amazon.de](https://www.amazon.de/dp/B0FYN5596Y?tag=sourcerobotic-20)<br>[amazon.com](https://www.amazon.com/s?k=HR32906J&tag=sourcerobotic-20) | [Link](BOM%20reference%20images/Tapered%20bearing.png) |
 | Bearing 3 | NSK HR32907J | 4 | Joint 1 and 2 | [Link](https://s.click.aliexpress.com/e/_DcJMtBl) | [amazon.de](https://www.amazon.de/dp/B0FM43TP7H?tag=sourcerobotic-20)<br>[amazon.com](https://www.amazon.com/s?k=HR32907J&tag=sourcerobotic-20) | [Link](BOM%20reference%20images/Tapered%20bearing.png) |
 | Tension bearing | Ball bearing 3x8x4 | 20 | Used for belt tension | [Link](https://s.click.aliexpress.com/e/_DCjfgFV) | [amazon.de](https://www.amazon.de/dp/B0G41JKDPX?tag=sourcerobotic-20)<br>[amazon.com](https://www.amazon.com/dp/B07FVYPMPX?tag=sourcerobotic-20) | [Link](BOM%20reference%20images/small%20tension%20bearings.png) |
